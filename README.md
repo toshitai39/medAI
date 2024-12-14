@@ -28,8 +28,8 @@ Make sure you have virtualenv or conda to create isolated environments.
 
 Create a virtual environment (optional but recommended):
 
-###Step 3: Configure API Keys
+### Step 3: Configure API Keys
 Obtain your Hugging Face API key from Hugging Face.
 Obtain your Tavily API key from Tavily.
 
-###Step 4: Run the Application
+### Step 4: Run the Application
